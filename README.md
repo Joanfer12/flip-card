@@ -1,4 +1,4 @@
-# Flip-card
+# Flip-card  - Tarjeta Volteable
 Code of flip card made in css and html /Código de tarjeta volteable hecha en css y html 
 #### Se presentan algunos de las propiedades usadas y links para la profundización de los temas 
 
